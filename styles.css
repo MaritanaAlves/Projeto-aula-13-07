@@ -1,5 +1,19 @@
 body {
   background-color: rgb(255, 203, 219);
-  color: white;
+  color: #ac3370;
   text-align: center;
+  font-family: arial;
+}
+
+ol,
+ul {
+  display: inline-block;
+}
+
+div {
+  border: ;
+}
+
+.div {
+  border: solid 1px;
 }
